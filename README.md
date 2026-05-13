@@ -146,9 +146,6 @@ These metrics help evaluate classification performance and generalization abilit
 
 ---
 
-## Main Notebook
-
-[Open Notebook](./heart_disease_classification.ipynb)
 
 ---
 
